@@ -1,0 +1,162 @@
+[{
+  "_id": {
+    "$oid": "60806f678a7aa01c30de73ad"
+  },
+  "MASP": "SP01",
+  "TENSP": "Áo Bồ đào nha",
+  "GIABAN": 100000,
+  "BAOHANH": "12 tháng ",
+  "UUDAITHEM": "Đôi vớ ",
+  "HINHANH": "Không có ",
+  "DACDIEM": "Thoáng mát, co giãn 4 chiều",
+  "LOAISP": {
+    "_id": {
+      "$oid": "000000000000000000000000"
+    },
+    "TENLOAI": "Áo",
+    "MON": {
+      "_id": {
+        "$oid": "000000000000000000000000"
+      },
+      "TENMON": "Bóng đá"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "60806f748a7aa01c30de73ae"
+  },
+  "MASP": "SP02",
+  "TENSP": "Áo Bồ đào nha 2021",
+  "GIABAN": 100000,
+  "BAOHANH": "12 tháng ",
+  "UUDAITHEM": "Đôi vớ ",
+  "HINHANH": "Không có ",
+  "DACDIEM": "Thoáng mát, co giãn 4 chiều",
+  "LOAISP": {
+    "_id": {
+      "$oid": "000000000000000000000000"
+    },
+    "TENLOAI": "Áo",
+    "MON": {
+      "_id": {
+        "$oid": "000000000000000000000000"
+      },
+      "TENMON": "Bóng đá"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "60806f918a7aa01c30de73af"
+  },
+  "MASP": "SP03",
+  "TENSP": "Giày Pan X12",
+  "GIABAN": 500000,
+  "BAOHANH": "12 tháng ",
+  "UUDAITHEM": "Đôi vớ ",
+  "HINHANH": "Không có ",
+  "DACDIEM": "Thoáng mát, co giãn 4 chiều",
+  "LOAISP": {
+    "_id": {
+      "$oid": "000000000000000000000000"
+    },
+    "TENLOAI": "Giày",
+    "MON": {
+      "_id": {
+        "$oid": "000000000000000000000000"
+      },
+      "TENMON": "Bóng đá"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6080703d8a7aa009ec1a9208"
+  },
+  "MASP": "SP04",
+  "TENSP": "Quần Gym",
+  "GIABAN": 500000,
+  "BAOHANH": "12 tháng ",
+  "UUDAITHEM": "Đôi vớ",
+  "HINHANH": "",
+  "DACDIEM": "",
+  "LOAISP": {
+    "_id": {
+      "$oid": "000000000000000000000000"
+    },
+    "TENLOAI": "Quần",
+    "MON": {
+      "_id": {
+        "$oid": "000000000000000000000000"
+      },
+      "TENMON": "Gym"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "608070f18a7aa042a4ea6720"
+  },
+  "MASP": "SP05",
+  "TENSP": "Quần bơi",
+  "GIABAN": 50000,
+  "BAOHANH": "1 tháng",
+  "UUDAITHEM": "Không có",
+  "HINHANH": "Không có ",
+  "DACDIEM": "Thoáng mát, chất liệu tốt",
+  "LOAISP": {
+    "_id": {
+      "$oid": "000000000000000000000000"
+    },
+    "TENLOAI": "Quần",
+    "MON": {
+      "_id": {
+        "$oid": "000000000000000000000000"
+      },
+      "TENMON": "Bơi"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "60817e768a7aa00a78b99245"
+  },
+  "MASP": "SP08",
+  "TENSP": "Kính bơi",
+  "GIABAN": 60000,
+  "BAOHANH": "12 tháng ",
+  "UUDAITHEM": "Không có",
+  "HINHANH": "Không có",
+  "DACDIEM": "Bền",
+  "LOAISP": {
+    "_id": {
+      "$oid": "000000000000000000000000"
+    },
+    "TENLOAI": "Phụ kiện",
+    "MON": {
+      "_id": {
+        "$oid": "000000000000000000000000"
+      },
+      "TENMON": "Bơi"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "60817eab8a7aa00a78b99246"
+  },
+  "MASP": "SP06",
+  "TENSP": "Quần bơi A1",
+  "GIABAN": 50000,
+  "BAOHANH": "1 tháng",
+  "UUDAITHEM": "Không có",
+  "HINHANH": "Không có ",
+  "DACDIEM": "Thoáng mát, chất liệu tốt",
+  "LOAISP": {
+    "_id": {
+      "$oid": "000000000000000000000000"
+    },
+    "TENLOAI": "Áo",
+    "MON": {
+      "_id": {
+        "$oid": "000000000000000000000000"
+      },
+      "TENMON": "Bóng đá"
+    }
+  }
+}]

@@ -1,0 +1,101 @@
+[{
+  "_id": {
+    "$oid": "608167b58a7aa00080b16485"
+  },
+  "MAKHACH": "KH03",
+  "TENKHACH": "Ngọc",
+  "GIOITINH": "Nữ",
+  "NGAYSINH": {
+    "$date": "2000-02-19T17:00:00Z"
+  },
+  "DIACHI": "403",
+  "SDT": "0695320015",
+  "LOAIKHACH": {
+    "MALOAIKHACH": null,
+    "TENLOAIKHACH": "MEMBER SILVER"
+  },
+  "HOADON": {
+    "MAHD": "HD01",
+    "NGAYIN": {
+      "$date": "2021-04-22T12:10:29.665Z"
+    },
+    "TRANGTHAI": "Đã thanh toán",
+    "TONGTIEN": 1000000,
+    "CHUTHICH": ""
+  }
+},{
+  "_id": {
+    "$oid": "608168178a7aa039382bf43f"
+  },
+  "MAKHACH": "KH06",
+  "TENKHACH": "Huy",
+  "GIOITINH": "Nam",
+  "NGAYSINH": {
+    "$date": "2000-09-07T17:00:00Z"
+  },
+  "DIACHI": "403",
+  "SDT": "0695320015",
+  "LOAIKHACH": {
+    "MALOAIKHACH": null,
+    "TENLOAIKHACH": "MEMBER SILVER"
+  },
+  "HOADON": {
+    "MAHD": "HD01",
+    "NGAYIN": {
+      "$date": "2021-04-22T12:12:07.282Z"
+    },
+    "TRANGTHAI": "Đã thanh toán",
+    "TONGTIEN": 900000,
+    "CHUTHICH": ""
+  }
+},{
+  "_id": {
+    "$oid": "608179ed8a7aa035e0c9a6d1"
+  },
+  "MAKHACH": "KH07",
+  "TENKHACH": "Khang",
+  "GIOITINH": "Nam",
+  "NGAYSINH": {
+    "$date": "2000-07-04T17:00:00Z"
+  },
+  "DIACHI": "214 Lê Trọng Tấn",
+  "SDT": "0693566654",
+  "LOAIKHACH": {
+    "MALOAIKHACH": null,
+    "TENLOAIKHACH": "Mới"
+  },
+  "HOADON": {
+    "MAHD": "HD01",
+    "NGAYIN": {
+      "$date": "2021-04-22T13:28:13.622Z"
+    },
+    "TRANGTHAI": "Đã thanh toán",
+    "TONGTIEN": 500000,
+    "CHUTHICH": ""
+  }
+},{
+  "_id": {
+    "$oid": "60817cee8a7aa00a78b99244"
+  },
+  "MAKHACH": "KH05",
+  "TENKHACH": "Duyên",
+  "GIOITINH": "Nữ ",
+  "NGAYSINH": {
+    "$date": "2000-09-07T17:00:00Z"
+  },
+  "DIACHI": "321",
+  "SDT": "036202211",
+  "LOAIKHACH": {
+    "MALOAIKHACH": null,
+    "TENLOAIKHACH": "Mới"
+  },
+  "HOADON": {
+    "MAHD": "HD01",
+    "NGAYIN": {
+      "$date": "2021-04-22T13:41:02.017Z"
+    },
+    "TRANGTHAI": "Đã thanh toán",
+    "TONGTIEN": 500000,
+    "CHUTHICH": ""
+  }
+}]

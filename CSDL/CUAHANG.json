@@ -1,0 +1,93 @@
+[{
+  "_id": {
+    "$oid": "6064a1c8f82c8134d87af2b9"
+  },
+  "TENCUAHANG": "YOUSPORT3",
+  "DIACHI": "101 CÁCH MẠNG THÁNG 8",
+  "SDT": "18006749",
+  "KHUVUC": {
+    "_id": 2,
+    "TENKV": "TAN PHU",
+    "THANHPHO": {
+      "_id": 2,
+      "TENTP": "HCM"
+    }
+  },
+  "QUANLY": {
+    "_id": 3,
+    "TENQL": "NGUYỄN MINH ANH",
+    "SDT": "091828174",
+    "DIACHI": "18 NGUYỄN VĂN QUÁ",
+    "NGAYVAOLAM": "2010-12-5",
+    "HESOLUONG": 5
+  }
+},{
+  "_id": {
+    "$oid": "6079dec02fc3c238ec82070e"
+  },
+  "TENCUAHANG": "YOUSPORT6",
+  "DIACHI": "20 PHẠM NGŨ LÃO",
+  "SDT": "18006741",
+  "KHUVUC": {
+    "_id": 2,
+    "TENKV": "TAN PHU",
+    "THANHPHO": {
+      "_id": 2,
+      "TENTP": "HCM"
+    }
+  },
+  "QUANLY": {
+    "_id": 2,
+    "TENQL": "TRAN TRUNG NAM",
+    "SDT": "093811174",
+    "DIACHI": "18 TRAN CAO VAN",
+    "NGAYVAOLAM": "2011-12-5",
+    "HESOLUONG": 5
+  }
+},{
+  "_id": {
+    "$oid": "6079deca2fc3c238ec82070f"
+  },
+  "TENCUAHANG": "YOUSPORT2",
+  "DIACHI": "101 CÁCH MẠNG THÁNG 8",
+  "SDT": "18006749",
+  "KHUVUC": {
+    "_id": 1,
+    "TENKV": "DONG DA",
+    "THANHPHO": {
+      "_id": 1,
+      "TENTP": "HA NOI"
+    }
+  },
+  "QUANLY": {
+    "_id": 1,
+    "TENQL": "NGUYỄN TRUNG NAM",
+    "SDT": "093828174",
+    "DIACHI": "18 NGUYỄN VĂN LINH",
+    "NGAYVAOLAM": "2012-12-5",
+    "HESOLUONG": 4.3
+  }
+},{
+  "_id": {
+    "$oid": "6079ded82fc3c238ec820710"
+  },
+  "TENCUAHANG": "YOUSPORT1",
+  "DIACHI": "20 PHẠM NGŨ LÃO",
+  "SDT": "18006741",
+  "KHUVUC": {
+    "_id": 2,
+    "TENKV": "TAN PHU",
+    "THANHPHO": {
+      "_id": 2,
+      "TENTP": "HCM"
+    }
+  },
+  "QUANLY": {
+    "_id": 2,
+    "TENQL": "TRAN TRUNG NAM",
+    "SDT": "093811174",
+    "DIACHI": "18 TRAN CAO VAN",
+    "NGAYVAOLAM": "2011-12-5",
+    "HESOLUONG": 5
+  }
+}]
